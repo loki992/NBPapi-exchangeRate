@@ -46,6 +46,7 @@ won południowokoreański	100 KRW
 yuan renminbi (Chiny)	1 CNY
 SDR (MFW)	1 XDR""")
     elif (choice.lower() == "e"):
+        input("Wcisnij enter aby zakończyć")
         print("Dzięki i do zobaczenia :)")
         exit()
     else:
